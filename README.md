@@ -258,3 +258,6 @@ Written by [Benoît Delmaire](https://fr.linkedin.com/in/benoitdelmaire) ([bd-ar
 
 ViewPropTypes updated by [Sergio R. Juárez](www.linkedin.com/in/sergiorjuarez) ([Frondelan](https://github.com/Frondelan))
 (thanks to the article of [Hodeem](https://dev.to/hmcodes/how-i-solved-the-viewproptypes-is-not-exported-from-react-native-web-dist-index-error-in-react-native-snap-carousel-16d8))
+
+Type definitions for react-native-snap-carousel
+Thanks to [jnbt, Jacob Froman, Nikolay Polukhin, Guillaume Amat, Vitor Luiz Cavalcanti, Lemon Garrett](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/react-native-snap-carousel))

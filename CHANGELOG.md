@@ -1,6 +1,10 @@
+## v3.9.5
+
+- Type definitions `@sergiorj/react-native-snap-carousel` Thanks to the project [jnbt, Jacob Froman, Nikolay Polukhin, Guillaume Amat, Vitor Luiz Cavalcanti, Lemon Garrett](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/react-native-snap-carousel))
+
 ## v3.9.2
 
-- Fix for `ViewPropTypes` deprecation warning with RN `0.68+` (thanks [@Frondelan](https://github.com/Frondelan))
+- Fix for `ViewPropTypes` deprecation error with RN `0.68+` (thanks [@Frondelan](https://github.com/Frondelan))
 
 ## v3.9.1
 
