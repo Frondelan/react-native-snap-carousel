@@ -85,17 +85,11 @@ We're not abandoning the ship, but we need more people to help us keep it alive 
 ## Usage
 
 ```bash
-$ npm install --save react-native-snap-carousel
-```
-
-If you're using Typescript you should also install type definitions:
-
-```bash
-$ npm install --save @types/react-native-snap-carousel
+$ npm install --save @sergiorj/react-native-snap-carousel
 ```
 
 ```javascript
-import Carousel from "react-native-snap-carousel";
+import Carousel from '@sergiorj/react-native-snap-carousel';
 
 export class MyCarousel extends Component {
   _renderItem = ({ item, index }) => {
